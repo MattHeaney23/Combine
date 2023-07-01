@@ -3,9 +3,9 @@ A central hub for all Combine based worked in my portfolio
 
 ___
 
-## Challenges
+# Challenges
 
-### User Authentication Flow
+## User Authentication Flow
 Challenge: Use Combine to validate user input for for their username password, simulate a network request to log the user in, showing loading, success and error states
 
 View my solution [here](https://github.com/MattHeaney23/UserAuthenticationFlow-Combine)
@@ -14,7 +14,7 @@ View my solution [here](https://github.com/MattHeaney23/UserAuthenticationFlow-C
 
 ___
 
-### Blog Post Fetcher
+## Blog Post Fetcher
 Challenge: Use Combine to fetch blogs from an API, allowing the user to manually refresh to get the latest posts.
 
 View my solution [here](https://github.com/MattHeaney23/BlogPostFetcher-Combine)
@@ -23,7 +23,7 @@ View my solution [here](https://github.com/MattHeaney23/BlogPostFetcher-Combine)
 
 ___
 
-### Contact List Filtering
+## Contact List Filtering
 Challenge: Using Combine, request the user's stored contacts. Set up a text field to allow the user to filter these fecthed results.
 
 View my solution [here](https://github.com/MattHeaney23/ContactListFiltering-Combine)
@@ -32,7 +32,7 @@ View my solution [here](https://github.com/MattHeaney23/ContactListFiltering-Com
 
 ___
 
-### Shopping List Total
+## Shopping List Total
 Challege: Create a shopping app, where the user can add or remove items to their cart. Use Combine to display the user's cart total price which updates when an item is added or removed
 
 View my solution [here](https://github.com/MattHeaney23/ShoppingCart-Combine)
