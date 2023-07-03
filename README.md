@@ -38,3 +38,11 @@ Challege: Create a shopping app, where the user can add or remove items to their
 View my solution [here](https://github.com/MattHeaney23/ShoppingCart-Combine)
 
 ![Splurge1](https://github.com/MattHeaney23/Combine/assets/129856192/510f02e0-67d5-4577-8a45-bfa602509556) ![Splurge2](https://github.com/MattHeaney23/Combine/assets/129856192/4b84cbe1-38f8-4df2-8789-f534864ecb95)
+
+___
+
+## Distinct - Custom Publisher, Subscription and Subscriber
+
+Challege: Create a custom publisher, subscriber, and subscription to implement new behaviour. This new publisher will only be able to emit unique values.
+View my solution [here](https://github.com/MattHeaney23/Distinct-Combine)
+
