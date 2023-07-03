@@ -44,5 +44,7 @@ ___
 ## Distinct - Custom Publisher, Subscription and Subscriber
 
 Challege: Create a custom publisher, subscriber, and subscription to implement new behaviour. This new publisher will only be able to emit unique values.
+
 View my solution [here](https://github.com/MattHeaney23/Distinct-Combine)
 
+___
